@@ -1,6 +1,6 @@
 - RFC Title: Future TAC Mission, Scope, and Responsibilities
 - Submission Date: 2026-10-27
-- RFC PR: Pending initial PR creation; actual URL will be recorded after assignment
+- RFC PR: https://github.com/PLeVasseur/sdvwg-tac-rfcs/pull/4
 - Follow-on Actions: Propose the future operating model (planned) and formal charter amendments (planned) separately; identify willing preparers and required approvals
 
 Status: Proposal for discussion; not adopted. Future RFC topics remain planned
@@ -20,7 +20,7 @@ Committee. Projects and Project Management Committees (PMCs) retain project
 governance and delivery. This RFC proposes future direction, not an amendment to the
 [published Charter](https://www.eclipse.org/collaborations/working-groups/sdv/charter/).
 It can be reviewed independently and in parallel with
-TAC New Way of Working — Markdown and GitHub (planned).
+[TAC New Way of Working — Markdown and GitHub (Draft PR #3)](https://github.com/PLeVasseur/sdvwg-tac-rfcs/pull/3).
 
 # Motivation
 [motivation]: #motivation
@@ -119,7 +119,7 @@ remain effective until changed through the applicable governance route.
 ## Parallel Review And Separate Follow-On Work
 
 This mission direction and
-TAC New Way of Working — Markdown and GitHub (planned; not yet submitted) are independent
+[TAC New Way of Working — Markdown and GitHub (Draft PR #3)](https://github.com/PLeVasseur/sdvwg-tac-rfcs/pull/3) are independent
 decisions that may be reviewed in parallel under the
 [existing RFC process](https://github.com/PLeVasseur/sdvwg-tac-rfcs/blob/main/README.md#what-the-process-is).
 Neither needs the other to be accepted first. This mission can be considered
@@ -197,7 +197,7 @@ for review rather than introduce another decision procedure.
   and how should the transition preserve current duties while approvals remain
   pending? No participants or commitments are assigned by this draft.
 - Follow-on: reconcile the independently reviewed
-  working-method outcome (planned) in the
+  [working-method outcome (Draft PR #3, pending review)](https://github.com/PLeVasseur/sdvwg-tac-rfcs/pull/3) in the
   operating model (planned);
   develop ambition (planned),
   principles (planned),
