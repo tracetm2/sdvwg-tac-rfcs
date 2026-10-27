@@ -1,6 +1,6 @@
 - RFC Title: TAC New Way of Working — Markdown and GitHub
 - Submission Date: 2026-10-27
-- RFC PR: Pending initial PR creation; actual URL will be recorded after assignment
+- RFC PR: https://github.com/PLeVasseur/sdvwg-tac-rfcs/pull/3
 - Follow-on Actions: Agree a small routine-record rollout and maintenance owners; consider the [advisory runway](#recommended-initial-pr-runway) separately
 
 Status: Proposal for discussion; not adopted. Future RFC topics remain planned
@@ -18,7 +18,7 @@ use normal pull requests; substantial proposals use the
 Begin with a small maintained set of records and a non-binding recommended PR
 runway toward the future TAC. This proposal does not change formal decision
 authority or adopt the separately reviewed
-future mission (planned)
+[future mission (Draft PR #4)](https://github.com/PLeVasseur/sdvwg-tac-rfcs/pull/4)
 or charter amendments (planned).
 
 # Motivation
@@ -126,14 +126,14 @@ Acceptance agrees the broader working-artifact scope. It does not rewrite the
 repository's [RFC process](https://github.com/PLeVasseur/sdvwg-tac-rfcs/blob/main/README.md),
 alter formal decision authority, or adopt the separate
 charter amendments (planned)
-or future mission (planned). The following runway is
+or [future mission (Draft PR #4)](https://github.com/PLeVasseur/sdvwg-tac-rfcs/pull/4). The following runway is
 advisory context only.
 
 ## Parallel Review Of Working Method And Future Mission
 
 How the TAC works and what its future responsibilities should be are separate
-decisions. This working-method proposal and the planned
-Future TAC Mission, Scope, and Responsibilities (planned; not yet submitted) may be reviewed in parallel under the
+decisions. This working-method proposal and
+[Future TAC Mission, Scope, and Responsibilities (Draft PR #4)](https://github.com/PLeVasseur/sdvwg-tac-rfcs/pull/4) may be reviewed in parallel under the
 [published RFC process](https://github.com/PLeVasseur/sdvwg-tac-rfcs/blob/main/README.md#what-the-process-is).
 Neither needs the other to be accepted first: this working method can support
 the present duties, while the mission can be considered using the current RFC
@@ -150,18 +150,19 @@ not itself block review or disposition of the other.
 The table starts with two already-open proposals, linked to their public PRs,
 then suggests ten further changes toward the future TAC model. The existing
 PRs are related work, not accepted decisions or prerequisites that this RFC
-silently adopts. Their actual numbers are #1 and #2; all numbers from #3 onward
-are illustrative queue positions, not a required submission or acceptance
-order. **Neither the recommended numbering nor the recommended
-content is binding or authoritative.** The recommended topics are not yet submitted; their public links
-will be recorded when actual proposals exist.
+silently adopts. PRs #1 and #2 and the two Draft PRs linked below have actual
+GitHub numbers; #5–#12 are illustrative queue positions, not assigned numbers
+or a required submission or acceptance order. **Neither the recommended
+numbering nor the recommended content is binding or authoritative.** Beyond
+the two submitted Drafts, recommended topics remain unsubmitted; their public
+links will be recorded when actual proposals exist.
 
 | PR | Topic | Status and intended contribution |
 | --- | --- | --- |
 | [#1](https://github.com/PLeVasseur/sdvwg-tac-rfcs/pull/1) | Reference vehicle architecture | Existing open PR: capability-first architecture, project mapping, and a small end-to-end scenario. Coordinate later principles and integration work with this proposal. |
 | [#2](https://github.com/PLeVasseur/sdvwg-tac-rfcs/pull/2) | Project purview rating criteria and process | Existing open PR: evidence-based criteria and a sheet-based review flow. Coordinate later purview changes with this proposal. |
-| #3 | TAC New Way of Working — this RFC | Recommended, not submitted: agree Markdown/GitHub as the shared working medium, with ordinary records and substantial RFC proposals using their respective review routes. Review in parallel with the mission proposal; neither requires the other's acceptance. |
-| #4 | Future TAC mission and scope | Recommended, not submitted: propose future responsibilities and authority boundaries, explaining the change from present duties. Review in parallel with this working-method proposal, without adopting it by implication. |
+| [#3](https://github.com/PLeVasseur/sdvwg-tac-rfcs/pull/3) | TAC New Way of Working — this RFC | Submitted Draft, not adopted: agree Markdown/GitHub as the shared working medium, with ordinary records and substantial RFC proposals using their respective review routes. Review in parallel with the mission proposal; neither requires the other's acceptance. |
+| [#4](https://github.com/PLeVasseur/sdvwg-tac-rfcs/pull/4) | Future TAC mission and scope | Submitted Draft, not adopted: propose future responsibilities and authority boundaries, explaining the change from present duties. Review in parallel with this working-method proposal, without adopting it by implication. |
 | #5 | Future TAC operating model | Recommended, not submitted: explain how those responsibilities produce owned outputs, review, referrals, and tracked next steps. |
 | #6 | Charter amendments | Recommended, not submitted: translate the reviewed future direction into proposed formal wording and the applicable approval route. |
 | #7 | Technical ambition level | Recommended, not submitted: describe the intended SDV ambition through code-first evidence, demonstrability, and engineering practice. |
@@ -178,8 +179,9 @@ so actual GitHub numbers and the eventual number of PRs will differ. Every
 substantive proposal retains its own consultation, review, and applicable
 decision/approval route. Accepting this RFC does not approve the other rows.
 
-The first three recommended items (illustrative #3–#5) establish the future
-direction and how to work toward it; later items develop its detailed content.
+The working-method and mission Drafts, followed by the recommended operating
+model, establish the future direction and how to work toward it; later items
+develop its detailed content.
 A small pilot, adoption review, and ongoing reporting are further candidates
 and may be brought forward when useful; they are not commitments made by this RFC.
 
@@ -234,6 +236,6 @@ continues to govern formal committee action.
 
 Add link/format checks, optional document exports, and source-based reporting
 after the basic workflow is useful. The separately reviewed
-future mission (planned)
+[future mission (Draft PR #4)](https://github.com/PLeVasseur/sdvwg-tac-rfcs/pull/4)
 and operating model (planned)
 can then use these records without depending on a new platform.
